@@ -1,3 +1,5 @@
 I am already in the habit of reflecting on processes, their pitfalls and possible improvements.
 
 Also, I think the bug that was found using diff would not have occured except that Javascript/HTML does not have strong typing.
+
+On second thought, there are no second thoughts.
